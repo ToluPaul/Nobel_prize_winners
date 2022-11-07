@@ -12,3 +12,5 @@ With a well detailed explanation of the follow up process, the analysis contains
 Even though all scientist make use of data, but data scientist are not recognized as data scientist we could deduce the nature of feilds the nobel price winners won their awards
 
 The analysis proves that anyone can be a winner regardless of age, gender or race.
+
+So do not feel left behind you can be a winner too
