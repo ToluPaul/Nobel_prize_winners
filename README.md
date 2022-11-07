@@ -9,7 +9,7 @@ The project was carried out using datacamp's platform which entails a jupyter no
 
 With a well detailed explanation of the follow up process, the analysis contains line charts to visualize the continuity in a trend and the density in a graph of certain interesting parameters.
 
-Even though all scientists make use of data, but data scientist are not recognized as data scientist we could deduce the nature of feilds the nobel price winners won their awards.
+Even though all scientists make use of data, but data scientist are not recognized as data scientist we could get the nature of feilds the nobel price winners won their awards.
 
 The analysis proves that anyone can be a winner regardless of age, gender or race.
 
