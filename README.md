@@ -13,4 +13,4 @@ Even though all scientist make use of data, but data scientist are not recognize
 
 The analysis proves that anyone can be a winner regardless of age, gender or race.
 
-So do not feel left behind you can be a winner too
+So do not feel left behind you can be a winner too.
